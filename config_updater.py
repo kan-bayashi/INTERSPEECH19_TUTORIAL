@@ -9,7 +9,7 @@ cm.update(
     "rise",
     {
         "scroll": True,
-        "transition": "zoom",
+        "transition": "none",
         "enable_chalkboard": True,
      }
 )
