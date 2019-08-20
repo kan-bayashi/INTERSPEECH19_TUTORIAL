@@ -7,6 +7,7 @@
 .rise-enabled .reveal .slides h1 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 200%; }
 .rise-enabled .reveal .slides h2 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 150%; }
 .rise-enabled .reveal .slides h3 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 150%; }
+.rise-enabled .reveal .slides h4 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 120%; }
 
 /* code `` */
 .rise-enabled .reveal .slides code
