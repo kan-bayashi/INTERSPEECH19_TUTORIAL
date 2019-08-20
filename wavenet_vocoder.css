@@ -1,0 +1,53 @@
+.rise-enabled .reveal .slides
+{
+    font-size: 20pt;
+    font-family: "Migu 1C", "Hiragino Kaku Gothic ProN", Meiryo sans-serif;
+    font-family: "Ricty" monospace;
+}
+
+.rise-enabled .reveal
+{
+    background-color: #ffffff;
+}
+
+.rise-enabled .reveal .slides h1 { font-size: 45pt; font-weight: bold; text-decoration: underline; }
+.rise-enabled .reveal .slides h2 { font-size: 35pt; font-weight: bold; text-decoration: underline; }
+.rise-enabled .reveal .slides h3 { font-size: 35pt; font-weight: bold; text-decoration: underline; }
+
+.rise-enabled .reveal .slides code
+{
+    font-size: 90%;
+    margin: 1px 0;
+}
+
+.rise-enabled .reveal .slides ul
+{
+    font-size: 90%;
+    line-height: 1.1;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 45px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+}
+/* In[] */
+.rise-enabled .reveal .slides div.prompt.input_prompt
+{
+    font-size: 85%;
+}
+
+/* Out[] */
+.rise-enabled .reveal .slides div.prompt.output_prompt
+{
+    font-size: 85%;
+}
+
+table{
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+td,th{
+  padding: 10px;
+}
