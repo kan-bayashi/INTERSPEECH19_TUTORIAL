@@ -6,6 +6,7 @@ Install jupyter & RISE.
 
 ```bash
 pip install -U jupyter
+pip install -U matplotlib
 pip install -U RISE
 jupyter-nbextension install rise --py --sys-prefix
 jupyter-nbextension enable rise --py --sys-prefix
