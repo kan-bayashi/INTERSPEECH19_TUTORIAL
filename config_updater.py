@@ -10,5 +10,6 @@ cm.update(
     {
         "scroll": True,
         "transition": "zoom",
+        "enable_chalkboard": True,
      }
 )
