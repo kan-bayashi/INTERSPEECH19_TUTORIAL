@@ -13,16 +13,8 @@ div.cell.text_cell.selected.jupyter-soft-selected .input_prompt {
     border-left: none !important;
 }
 
-div.prompt.input_prompt {
-    border-top: 0px;
-    border-top-right-radius: 0px;
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
-    padding-right: 3px;
-    min-width: 8ex;
-    width: 8ex !important;
-}
 div.prompt {
+    font-size: 60%;
     border-top: 0px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
