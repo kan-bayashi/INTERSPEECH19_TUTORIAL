@@ -1,13 +1,12 @@
-.rise-enabled .reveal .slides
+.rise-enabled .reveal
 {
     background-color: #ffffff;
-    font-size: 20pt;
-    font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    font-family: "Hiragino Sans", Meiryo, sans-serif;
 }
 
-.rise-enabled .reveal .slides h1 { font-size: 45pt; font-weight: bold; text-decoration: underline; }
-.rise-enabled .reveal .slides h2 { font-size: 40pt; font-weight: bold; text-decoration: underline; }
-.rise-enabled .reveal .slides h3 { font-size: 40pt; font-weight: bold; text-decoration: underline; }
+.rise-enabled .reveal .slides h1 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 200%; }
+.rise-enabled .reveal .slides h2 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 150%; }
+.rise-enabled .reveal .slides h3 { font-family: "Hiragino Sans"; font-weight: 800; color: #009bb3; font-size: 150%; }
 
 /* code `` */
 .rise-enabled .reveal .slides code
