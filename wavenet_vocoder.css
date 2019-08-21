@@ -2,7 +2,7 @@
 .rise-enabled .reveal
 {
     background-color: #ffffff;
-    font-family: "Hiragino Sans", Meiryo;
+    font-family: "Hiragino Sans";
 }
 
 /* title */
@@ -58,6 +58,7 @@ div.text_cell_render
     margin-bottom: 0.5em;
 }
 
+/* table */
 table{
   border-collapse: collapse;
   margin: 0 auto;

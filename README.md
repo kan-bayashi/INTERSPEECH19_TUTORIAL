@@ -26,5 +26,10 @@ python config_updater.py
 
 ## How-to-apply CSS for RISE
 
-Make `<notebook_name>.css` and then put it the same directory of the notebook.  
+Make `<notebook_name>.css` and then put it in the same directory of the notebook.  
 The CSS will be automatically loaded in presentation mode.
+
+## Which css part is correspoing to the slide?
+
+1. Start presentation with chrome
+2. Right click the part which you want to know -> 検証 -> Happy!
