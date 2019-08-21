@@ -33,3 +33,7 @@ The CSS will be automatically loaded in presentation mode.
 
 1. Start presentation with chrome
 2. Right click the part which you want to know -> 検証 -> Happy!
+
+## How-to-export as PDF with CSS
+
+See https://www.procrasist.com/entry/5-jupyter-slide
