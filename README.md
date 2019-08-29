@@ -26,7 +26,7 @@ python config_updater.py
 
 ## How-to-apply CSS for RISE
 
-Make `<notebook_name>.css` and then put it in the same directory of the notebook.  
+Make `<notebook_name>.css` and then put it in the same directory of the notebook.
 The CSS will be automatically loaded in presentation mode.
 
 ## Which css part is correspoing to the slide?
@@ -37,3 +37,5 @@ The CSS will be automatically loaded in presentation mode.
 ## How-to-export as PDF with CSS
 
 See https://www.procrasist.com/entry/5-jupyter-slide
+https://rise.readthedocs.io/en/stable/exportpdf.html
+
