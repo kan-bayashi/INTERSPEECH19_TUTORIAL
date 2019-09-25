@@ -15,8 +15,9 @@ You can access the hands-on notebook by clicking `Open In Colab` button.
 
 ## Slides
 
-1. [Sprocket demonstration](https://nbviewer.jupyter.org/format/slides/github/kan-bayashi/INTERSPEECH19_TUTORIAL/blob/master/notebooks/sprocket/sprocket.ipynb)
-2. [WaveNet vocoder demonstration](https://nbviewer.jupyter.org/format/slides/github/kan-bayashi/INTERSPEECH19_TUTORIAL/blob/master/notebooks/wavenet_vocoder/wavenet_vocoder.ipynb)
+1. [Lecture](https://www.slideshare.net/NU_I_TODALAB/statistical-voice-conversion-with-direct-waveform-modeling)
+2. [Sprocket demonstration](https://nbviewer.jupyter.org/format/slides/github/kan-bayashi/INTERSPEECH19_TUTORIAL/blob/master/notebooks/sprocket/sprocket.ipynb)
+3. [WaveNet vocoder demonstration](https://nbviewer.jupyter.org/format/slides/github/kan-bayashi/INTERSPEECH19_TUTORIAL/blob/master/notebooks/wavenet_vocoder/wavenet_vocoder.ipynb)
 
 
 ## Organizers
