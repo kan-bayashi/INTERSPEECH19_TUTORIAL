@@ -2,8 +2,6 @@
 
 This repository provides the hands-on materials of INTERSPEECH 2019 tutorial, [[T2] Statistical voice conversion with direct waveform modeling](https://www.interspeech2019.org/program/tutorials/).
 
-Now work in progress.
-
 
 ## Hands-on materials
 
